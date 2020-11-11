@@ -30,9 +30,9 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 <a href="https://github.com/Shivam-Shrivastav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456" /> -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starboy2102&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456)](https://github.com/starboy2102/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav2&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456)](https://github.com/Shivam-Shrivastav/github-readme-stats)
   
-</a> <img src="https://github-readme-stats.vercel.app/api?username=starboy2102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456">
+</a> <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456">
 </div>
 
 **Follow Me On:**
