@@ -26,7 +26,7 @@ I'm an Engineering student. I am a guy who is fascinated toward programming espe
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456)](https://github.com/Shivam-Shrivastav/github-readme-stats) -->
   
-</a> <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&theme=synthwave&show_icons=true">
+ <p><img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&theme=synthwave&show_icons=true"> </p>
 </div>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Shivam-Shrivastav&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Shivam-Shrivastav" /></p>
