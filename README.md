@@ -29,6 +29,8 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 </a> <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456">
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Shrivastav&" alt="Shivam-Shrivastav" /></p>
+
 **Follow Me On:**
   
   <a href="https://twitter.com/ShivamsTwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
