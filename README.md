@@ -7,9 +7,9 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 
   <img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png"/>
 
-- 🌱 I’m currently learning Android Development on Flutter, Data Structure and Algorithm in C++.
-- 🤔 I’m looking for help with Android Projects on Flutter.
-- 💬 You can ask me about DSA and Flutter.
+- 🌱 I’m currently learning Data Science and Machine Learning Algorithms and DSA in C++.
+- 🤔 I’m looking for help in IoT Stuffs.
+- 💬 You can ask me about Python and Machine Learning Algorithms.
 - ⚡ Fun fact: I'am Boring AF.
 - 😄 Pronouns: He/His.
 - 📫 How to reach me:  [My LinkedIn Profile](https://www.linkedin.com/in/shivam-shrivastava-1ab2841a3/)
@@ -37,7 +37,7 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 
 **Follow Me On:**
   
-  <a href="https://twitter.com/shivam05_">
+  <a href="https://twitter.com/ShivamsTwt">
   <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shivam-shrivastava-1ab2841a3/">
@@ -46,7 +46,5 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 <a href="https://github.com/Shivam-Shrivastav">
   <img align="left" alt="Shivam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/mahi05._/">
-  <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
