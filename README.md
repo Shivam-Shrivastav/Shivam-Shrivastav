@@ -3,9 +3,9 @@
 <!--
 **starboy2102/starboy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a B.tech student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
+I'm an Engineering student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png"/>
+  <p style="text-align:center;"><img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png" class="center"/> </p>
 
 - 🌱 I’m currently learning **Data Science** and **Machine Learning Algorithms** and **DSA in C++**.
 - 🤔 I’m looking for help in **IoT**.
@@ -24,13 +24,14 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 <a href="https://github.com/Shivam-Shrivastav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456" /> -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456)](https://github.com/Shivam-Shrivastav/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Shrivastav&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456)](https://github.com/Shivam-Shrivastav/github-readme-stats) -->
   
-</a> <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456">
+</a> <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Shrivastav&theme=synthwave&show_icons=true">
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Shrivastav&" alt="Shivam-Shrivastav" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Shivam-Shrivastav&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Shivam-Shrivastav" /></p>
 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivam-Shrivastav&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 **Follow Me On:**
   
   <a href="https://twitter.com/ShivamsTwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
