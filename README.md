@@ -5,7 +5,9 @@
 
 I'm an Engineering student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
-  <p style="text-align:center;"><img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png" class="center"/> </p>
+<p align="center">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png" />
+</p>
 
 - 🌱 I’m currently learning **Data Science** and **Machine Learning Algorithms** and **DSA in C++**.
 - 🤔 I’m looking for help in **IoT**.
