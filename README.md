@@ -14,7 +14,7 @@ I’m **Shivam Shrivastava**, a passionate Software R&D Engineer specializing in
 
 
 
-## Tech Stack:
+## Tech Stack
 
 
 **Programming Languages**
