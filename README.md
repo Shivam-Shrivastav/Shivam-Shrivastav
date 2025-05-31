@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m **Shivam Shrivastava**, a driven Software R&D Engineer who transforms bold ideas into real-world impact. I thrive on solving complex challenges, streamlining processes, and bringing fresh innovations to life. Energetic and curious, I believe that collaboration and a relentless drive to improve are the keys to building something extraordinary.
+I’m **Shivam Shrivastava**, a passionate Software R&D Engineer specializing in AI-driven automation and virtual assistant innovation. With a proven track record of transforming complex workflows into seamless experiences, I thrive on solving real-world problems and driving efficiency. Let’s collaborate to bring ambitious AI ideas to life!  
 
 
 **Programming Languages**
