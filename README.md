@@ -32,7 +32,7 @@ I’m **Shivam Shrivastava**, a driven Software R&D Engineer who transforms bold
 **Follow Me On:**
   
   <a href="https://twitter.com/ShivamsTwt" target="blank"><img align="center" src="https://img.icons8.com/color/480/twitterx--v1.png" alt="rishavchanda" height="48" width="48" /></a>
-<a href="https://www.linkedin.com/in/shivam-shrivastava-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-shrivastava-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
 
 
